@@ -1,0 +1,20 @@
+_repo: Latin-Phrase-Book_50280
+creator:
+  authors:
+  - agent_name: Meissner, Carl
+    gutenberg_agent_id: '45795'
+    url: http://www.gutenberg.org/2009/agents/45795
+  - agent_name: Auden, Henry William
+    gutenberg_agent_id: '45796'
+    url: http://www.gutenberg.org/2009/agents/45796
+description: ''
+gutenberg_issued: '2015-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50280'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Latin Phrase-Book
+url: http://www.gutenberg.org/ebooks/50280
