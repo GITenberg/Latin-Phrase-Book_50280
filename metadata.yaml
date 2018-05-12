@@ -1,4 +1,8 @@
 _repo: Latin-Phrase-Book_50280
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50280-h/images/meissner_cover.png
 creator:
   authors:
   - agent_name: Meissner, Carl
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '45796'
     url: http://www.gutenberg.org/2009/agents/45796
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50280#Latin-Phrase-Book
 gutenberg_issued: '2015-10-22'
 gutenberg_type: Text
 identifiers:
